@@ -1,0 +1,31 @@
+.block{
+  display:inline-block;
+  margin: 6px;
+  padding:12px;
+  background-color:white;
+  overflow:hidden;
+  vertical-align:middle;
+}
+.content{
+  padding: 5px;
+  overflow:hidden;
+  width:80%;
+  background-color:lightgreen;
+  margin: 40px auto;
+  
+}
+.outline{
+  width:70px;
+  display: inline-block;
+  background-color:green;
+  color:white;
+  padding-left:3px;
+}
+.text
+{
+   margin-right:10px;
+   text-align:right;
+   display: inline-block;
+   width:200px;
+   vertical-align:bottom;
+}
